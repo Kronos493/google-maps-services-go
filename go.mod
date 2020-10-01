@@ -1,4 +1,4 @@
-module github.com/Kronos493/google-maps-services-go
+module googlemaps.github.io/maps
 
 go 1.14
 
